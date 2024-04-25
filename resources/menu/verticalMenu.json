@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "dashboard",
+      "badge": [
+        "danger",
+        "5"
+      ]
+    },
+    {
+      "url": "quotation/materialList",
+      "name": "Material List",
+      "slug": "layouts-without-menu"
+    },
+    {
+      "url": "quotation/workersList",
+      "name": "Workers List",
+      "slug": "layouts-without-navbar"
+    },
+    {
+      "url": "quotation/requestorList",
+      "name": "Requestor List",
+      "slug": "layouts-container"
+    },
+    {
+      "url": "quotation/request",
+      "name": "Request",
+      "slug": "layouts-container"
+    },
+    {
+      "url": "quotation/quotation",
+      "name": "Quotation Maker",
+      "slug": "layouts-without-menu"
+    },
+    {
+      "url": "quotation/quotation-records",
+      "name": "Quotation Records",
+      "slug": "layouts-without-menu"
+    }
+  ]
+}
